@@ -1,4 +1,4 @@
-FROM ubuntu:22:04
+FROM ubuntu:latest
 
 LABEL maintainer="Carlos Alonso <carlos.martinez@mataro.epiaedu.cat>"
 LABEL description="Basic Ubuntu Dockerfil exposing port 80 and 443"
